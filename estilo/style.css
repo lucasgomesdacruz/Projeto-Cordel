@@ -75,6 +75,7 @@ section.imagem > p {
     display: inline-block;
     padding: 5px;
     text-shadow: 1px 1px 0px rgb(0, 0, 0);
+    border-radius: 5px;
 }
 
 section#img01{
